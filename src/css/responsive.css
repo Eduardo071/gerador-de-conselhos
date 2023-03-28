@@ -1,0 +1,10 @@
+@media (max-width: 768px) {
+    .conteiner {
+        width: 90%;
+    }
+
+    .dica {
+        font-size: 27px;
+
+    }
+}
